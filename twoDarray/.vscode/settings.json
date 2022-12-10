@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "ncurses.h": "c",
+        "stdio.h": "c"
+    }
+}

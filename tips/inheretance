@@ -1,0 +1,9 @@
+﻿First tip 
+
+=> private members not accessible in derived class but it still part of that class which means that we can set the value to this attributes but can not access this attributes directly (set or get function)
+
+=> public inheritance take the member from the base as it without any modification 
+public still public and private still private and protected still protected 
+
+=> friend function not inherited 
+
